@@ -37,12 +37,12 @@ Smart picture frame is an IoT picture frame that you can speak to. A user can co
 <a name="toc_net"/>
 
 ### Network Design
-![process2](images/image003.png)
+![process2](github_img/image003.png)
 
 <a name="toc_cam"/>
 
 ### Camera and Display Design
-![process2](images/image004.png)
+![process2](github_img/image004.png)
 
 <a name="toc_lan"/>
 
