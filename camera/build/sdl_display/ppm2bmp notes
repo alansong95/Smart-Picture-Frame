@@ -1,0 +1,2 @@
+compile: g++ -o ppm2bmp ppm2bmp.cpp bmp_io.cpp ppmb_io.cpp
+run: ./ppm2bmp hello_world.ppm hello_wold.bmp

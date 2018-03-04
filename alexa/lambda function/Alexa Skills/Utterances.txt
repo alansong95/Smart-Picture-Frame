@@ -1,0 +1,3 @@
+TakePictureIntent take picture
+TakePictureIntent take pic
+TakePictureIntent cheese
